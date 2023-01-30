@@ -4,7 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Goal : 
 
-(screenshot.png)
+<img width="1439" alt="screenshot" src="https://user-images.githubusercontent.com/103175866/215520734-8c0fcdda-68ec-4fb3-b8d8-cc62a409d93b.png">
+
 
 ### Links
 
